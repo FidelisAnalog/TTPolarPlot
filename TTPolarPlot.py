@@ -43,20 +43,20 @@ import os
 #edit here to adjust input parameters:
 
 
-_FILE = 'DK2412D015 Motor FG PostMech-2(oil).wav'
+_FILE = 'WAV File'
 
-info_line = 'MK3 FG'
+info_line = 'Info'
 
-Hz_per_tick = 1
+Hz_per_tick = 3
 sec_per_rev = 1.8
-revs = 1
-revoffset = 2
+revs = 2
+revoffset = 0
 
 pltpolar = 1
 pltlegend = 0
 
 stereo_channel = 0
-filter_freq = 5
+filter_freq = 60
 
 #end edit
 
